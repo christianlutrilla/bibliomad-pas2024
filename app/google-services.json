@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "224848899389",
+    "firebase_url": "https://bibliomad-9338d-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "bibliomad-9338d",
+    "storage_bucket": "bibliomad-9338d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224848899389:android:22296b857dde37825e2954",
+        "android_client_info": {
+          "package_name": "com.clamor.bibliomad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224848899389-fidvb4i5bhjveqs7163gv86s4v9qrnhm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.clamor.bibliomad",
+            "certificate_hash": "f638049891ed26cce4b515fb7cf15e78ec3b148a"
+          }
+        },
+        {
+          "client_id": "224848899389-d1u72lesu29t9vvjpplg6qrnaobp2vv7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHCwFjvMXNFmJxpX_-tEb6ZFKpWo4ne-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224848899389-d1u72lesu29t9vvjpplg6qrnaobp2vv7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
