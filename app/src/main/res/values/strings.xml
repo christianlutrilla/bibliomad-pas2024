@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">BiblioMad</string>
+    <string-array name="district_array">
+        <item>(Sin seleccionar)</item>
+        <item>ARGANZUELA</item>
+        <item>BARAJAS</item>
+        <item>CARABANCHEL</item>
+        <item>CENTRO</item>
+        <item>CHAMARTIN</item>
+        <item>CHAMBERI</item>
+        <item>CIUDAD LINEAL</item>
+        <item>FUENCARRAL-EL PARDO</item>
+        <item>HORTALEZA</item>
+        <item>LATINA</item>
+        <item>MONCLOA-ARAVACA</item>
+        <item>MORATALAZ</item>
+        <item>PUENTE DE VALLECAS</item>
+        <item>RETIRO</item>
+        <item>SALAMANCA</item>
+        <item>SAN BLAS-CANILLEJAS</item>
+        <item>TETUAN</item>
+        <item>USERA</item>
+        <item>VICALVARO</item>
+        <item>VILLA DE VALLECAS</item>
+        <item>VILLAVERDE</item>
+    </string-array>
+</resources>
